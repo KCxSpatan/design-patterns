@@ -12,5 +12,4 @@ public class DesignPatternsApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
 }
